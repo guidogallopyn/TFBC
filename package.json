@@ -1,7 +1,7 @@
 {
-  "name": "node-js-sample",
+  "name": "TFBC",
   "version": "0.1.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "Team Force Booster Club fund raising site",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -14,16 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "url": "https://github.com/guidogallopyn/TFBC"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
   ],
-  "author": "Mark Pundsack",
+  "author": "Guido Gallopyn",
   "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+    "Guido Gallopyn <guidogallopyn@gmail.com>"
   ],
   "license": "MIT"
 }
